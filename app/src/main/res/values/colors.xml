@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_900">#0D47A1</color>
+    <color name="blue_700">#1565C0</color>
+    <color name="blue_500">#1E88E5</color>
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_50">#E3F2FD</color>
+    <color name="surface">#F4F8FD</color>
+    <color name="text_primary">#0F2A4A</color>
+    <color name="text_secondary">#5B7089</color>
+    <color name="panel_scrim">#CC0D47A1</color>
+</resources>
